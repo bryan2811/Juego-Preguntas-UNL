@@ -1,0 +1,52 @@
+[
+    {
+        "categoria": "Pablo Vrillaud",
+        "pregunta": "¿Quién fue Pablo Vrillaud?",
+        "respuesta": "Un estudiante de abogacía",
+        "incorrecta1": "Un abogado prestigioso",
+        "incorrecta2": "Un poeta argentino",
+        "incorrecta3": "Un deportista argentino",
+        "imagen": "https://historiadelderechounl.files.wordpress.com/2016/09/vrillaudt.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Pablo Vrillaud",
+        "pregunta": "¿Por qué obras fue reconocido Pablo Vrillaud?",
+        "respuesta": "Sonetos",
+        "incorrecta1": "Poemas",
+        "incorrecta2": "Libros",
+        "incorrecta3": "Guías de estudio",
+        "imagen": "https://museohistoricounl.com.ar/wp-content/uploads/2020/09/REFORMISTAS-CARICATURAS-06-1024x1024.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Pablo Vrillaud",
+        "pregunta": "¿A qué hacían referencia sus sonetos?",
+        "respuesta": "Lo que pasaba en la reforma del 18",
+        "incorrecta1": "De la Universidad Del Litoral",
+        "incorrecta2": "De las noticias del momento",
+        "incorrecta3": "Deportes",
+        "imagen": "https://web9.unl.edu.ar/noticias/img/thumbs/news/18818/Federaci%C3%B3n%20Universitaria%20de%20Santa%20Fe_vga.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Pablo Vrillaud",
+        "pregunta": "¿Cuál era su nombre artístico?",
+        "respuesta": "Paul Marcel",
+        "incorrecta1": "Juan Perez",
+        "incorrecta2": "Michael Jordan",
+        "incorrecta3": "Lionel Messi",
+        "imagen": "https://2.bp.blogspot.com/-L8-3gdSkN78/WW6sp1mlqkI/AAAAAAAAEDA/c1bSSYrN-y8PxPPQVq4DCw0lCHoKV0qdACLcBGAs/s1600/pablo.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Pablo Vrillaud",
+        "pregunta": "¿Cómo eran sus Sonetos?",
+        "respuesta": "Irónicos y sarcásticos",
+        "incorrecta1": "Mal intencionados",
+        "incorrecta2": "Imaginarios",
+        "incorrecta3": "Tristes",
+        "imagen": "https://image.isu.pub/170517160332-fb8ca63fcc110bef0572c47849054dc2/jpg/page_1.jpg",
+        "objectFit": "contain"
+    }
+]
