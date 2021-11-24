@@ -17,7 +17,6 @@ h1.principal--title {
 
 .contenedor {
   width: 98vw;
-  height: 97vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -77,4 +76,10 @@ h1.principal--title {
     div.encabezado {
         margin-bottom: 1rem !important;
     }
+}
+
+@media (min-width: 1024px){
+  .contenedor {
+    height: 97vh;
+  }
 }
